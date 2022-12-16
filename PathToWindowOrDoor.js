@@ -130,12 +130,6 @@ var PathToWindowOrDoor = PathToWindowOrDoor || (function () {
 
         //Begin update functions
         updateScript = function () {
-            // if (state.PathToWindowOrDoor.help && state.PathToWindowOrDoor.version < 1.01) {
-            //   updateTo1x01();
-            // }
-            // if (state.PathToWindowOrDoor.version < 1.03) {
-            //   updateTo1x03();
-            // }
         },
 
         initialInstall = function () {
